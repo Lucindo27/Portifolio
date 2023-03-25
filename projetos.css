@@ -1,0 +1,35 @@
+body{
+    background-color: #13678A;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: #012030;
+}
+
+h2{
+    padding: 25px; 
+    text-align: center; 
+    color: #DAFDBA;
+}
+
+.voltar{
+    text-align: left;
+    list-style-type: none;
+    background-color: #45C4B0;  
+    border-radius: 20px;
+    width: 3%;  
+    border: none;
+    padding: 8px;
+    cursor: pointer;            
+}
+
+a{
+    text-decoration: none;
+    color: bisque;
+}
+
+.proj{
+    text-align: center;
+}
