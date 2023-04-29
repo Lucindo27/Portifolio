@@ -2,8 +2,6 @@
 
 Meu Portifolio com projetos e meios de contato !
 
-Link do site: file:///C:/Users/lucin/OneDrive/Documentos/Estudos/Projetos/MyPag/menu.html
-
 ### O que usamos:
 - HTML
 - CSS
